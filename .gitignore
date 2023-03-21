@@ -8,3 +8,4 @@ node_modules
 .env.ts
 dist
 .DS_Store
+*.pem
